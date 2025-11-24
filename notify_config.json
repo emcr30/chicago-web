@@ -1,0 +1,13 @@
+{
+  "email": {
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "lacucarachanoquierecaminar85@gmail.com",
+    "password": "piunxhmyenrayrrz",
+    "from_addr": "lacucarachanoquierecaminar85@gmail.com",
+    "recipients": ["echipanar@ulasalle.edu.pe"]
+  },
+  "webhook": {
+    "url": ""
+  }
+}
